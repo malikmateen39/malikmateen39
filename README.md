@@ -1,208 +1,152 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:00ff88,100:00d9ff&height=240&section=header&text=MALIK%20MATEEN&fontSize=58&fontColor=00ff88&animation=twinkling&fontAlignY=45&desc=WEB%20DEVELOPER%20%2F%2F%20AI%20%2F%2F%20SAAS%20BUILDER&descSize=17&descColor=00d9ff&descAlignY=65"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+MALIK_MATEEN.exe;%3E+WEB+DEVELOPER+ONLINE;%3E+BUILDING+AI+%26+SAAS+SYSTEMS;%3E+DESIGNING+FUTURISTIC+WEB+EXPERIENCES;%3E+SYSTEM+STATUS%3A+BUILDING+THE+FUTURE+%F0%9F%9A%80" /><br><br>
+<div align="center">👋 Hi, I'm Malik Mateen
 
-""Portfolio" (https://img.shields.io/badge/%3E_%20PORTFOLIO-00ff88?style=for-the-badge&logo=vercel&logoColor=black)" (https://malikmateen-portfolio.vercel.app/)
-""GitHub" (https://img.shields.io/badge/%3E_%20GITHUB-00d9ff?style=for-the-badge&logo=github&logoColor=black)" (https://github.com/malikmateen39)
-""Profile Views" (https://komarev.com/ghpvc/?username=malikmateen39&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)" (https://github.com/malikmateen39)
+💻 Web Developer • UI/UX Designer • Digital Builder
 
-</div>---
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;Creating+Useful+Web+Tools;Exploring+AI+%26+Automation;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+</p><p>
+  <a href="https://github.com/malikmateen39">
+    <img src="https://img.shields.io/badge/GitHub-malikmateen39-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://malikmateen-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p></div>---
 
-╔════════════════════════════════════════════════════════════════════╗
-║                     SYSTEM // MALIK_MATEEN                         ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  STATUS       : ONLINE                                            ║
-║  ROLE         : WEB DEVELOPER                                     ║
-║  MODE         : BUILDING                                          ║
-║  SPECIALTY    : WEB / UI / AI / SAAS                              ║
-║  ENVIRONMENT  : GITHUB                                             ║
-║                                                                    ║
-║  > ACCESS GRANTED_                                                ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+👨‍💻 About Me
 
-"> WHOAMI"
+I'm Malik Mateen, a passionate developer and designer who enjoys building modern, responsive and user-friendly digital experiences.
 
-$ whoami
+I love taking an idea from concept → design → development → deployment.
 
-Malik Mateen
-
-$ cat profile.txt
-
-Web Developer & Digital Creator
-Building modern websites, web applications,
-AI tools and SaaS products.
-
-$ mission
-
-Turn ideas → into products → that people use.
-
-«"// Code the idea. Design the experience. Ship the product."»
+- 🌐 Building modern web applications
+- 🎨 Interested in UI/UX and creative interfaces
+- 🤖 Exploring AI and automation
+- 🧰 Creating useful web tools
+- 🚀 Deploying projects and turning ideas into real products
+- 📚 Always learning something new
 
 ---
 
-"> CORE_SYSTEMS"
+⚡ Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel,figma" /><br><br>
+🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,flutter" /></div>[ FRONTEND ] ████████████████████░░ 90%
-[ UI / UX  ] ██████████████████░░░░ 85%
-[ GIT/GH   ] ███████████████████░░░ 88%
-[ AI       ] ██████████████░░░░░░░░ 70%
-[ SAAS     ] █████████████░░░░░░░░░ 65%
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>🛠️ Tools & Platforms
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+</p>---
 
-"> ACTIVE_PROJECTS"
+🚀 Featured Projects
 
-"01 // SWIFT_PDF"
+<table>
+<tr>
+<td width="50%">📄 Swift PDF
 
-┌─────────────────────────────────────────────┐
-│  PDF PROCESSING SYSTEM                      │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Fast. Simple. Modern.                     │
-│                                             │
-│  > Online PDF tools                         │
-│  > Modern UI                                │
-│  > Responsive experience                    │
-│  > Built for everyday users                 │
-│                                             │
-└─────────────────────────────────────────────┘
+A modern collection of online PDF tools designed to make working with PDF files simple and convenient.
 
-STACK: "HTML" "CSS" "JavaScript"
+Tech: HTML • CSS • JavaScript
 
-LIVE: https://swift-pdf-site.vercel.app/
+🔗 "Live Project" (https://swift-pdf-site.vercel.app/)
 
----
+</td><td width="50%">🍴 TasteNest
 
-"02 // TASTENEST"
+A modern food-focused web experience with a clean interface and engaging design.
 
-┌─────────────────────────────────────────────┐
-│  FOOD_DISCOVERY_SYSTEM                      │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Discover • Explore • Enjoy                 │
-│                                             │
-│  > Modern food experience                   │
-│  > Clean interface                          │
-│  > Responsive design                        │
-│  > Content-focused UI                       │
-│                                             │
-└─────────────────────────────────────────────┘
+Tech: HTML • CSS • JavaScript
 
-STACK: "HTML" "CSS" "JavaScript"
+🔗 "Live Project" (https://tastenest-nine.vercel.app/)
 
-LIVE: https://tastenest-nine.vercel.app/
+</td>
+</tr><tr>
+<td width="50%">🧑‍💻 Personal Portfolio
 
----
+My personal portfolio showcasing my projects, skills and development journey.
 
-"03 // TOOLNOVA"
+Tech: Web Development
 
-┌─────────────────────────────────────────────┐
-│  DIGITAL_TOOL_SYSTEM                        │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Useful tools. One ecosystem.              │
-│                                             │
-│  > Productivity tools                      │
-│  > Utility applications                    │
-│  > Modern interface                        │
-│  > Continuously evolving                   │
-│                                             │
-└─────────────────────────────────────────────┘
+🔗 "View Portfolio" (https://malikmateen-portfolio.vercel.app/)
 
-LIVE: https://toolnova-sage.vercel.app/
+</td><td width="50%">🧰 ToolNova
+
+A modern collection of useful web-based tools with a clean and responsive interface.
+
+Tech: HTML • CSS • JavaScript
+
+🔗 "Live Project" (https://toolnova-sage.vercel.app/)
+
+</td>
+</tr>
+</table>---
+
+📌 Other Projects
+
+Some of my other GitHub projects:
+
+- 🌦️ Weather App
+- 🧪 Professional Testing Platform
+- 🎓 3D Students Data Management System
+- 🧮 Calculator App
+- 📝 Daily Items Tracker
+
+👉 "Explore all my repositories" (https://github.com/malikmateen39?tab=repositories)
 
 ---
 
-"> GITHUB_ANALYTICS"
+📊 GitHub Analytics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=malikmateen39&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00d9ff&text_color=ffffff" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmateen39&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff" height="180"/></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=malikmateen39&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/><img src="https://streak-stats.demolab.com?user=malikmateen39&theme=tokyonight&hide_border=true" height="170"/></div>---
 
-"> CONTRIBUTION_ENGINE"
+💻 Most Used Languages
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=malikmateen39&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00d9ff&currStreakLabel=00ff88"/></div><br><div align="center"><img src="https://raw.githubusercontent.com/malikmateen39/malikmateen39/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmateen39&layout=compact&theme=tokyonight&hide_border=true" /></div>---
 
-"> CURRENTLY_BUILDING"
+🐍 Contribution Activity
 
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  [01] AI POWERED WEB APPLICATIONS                        │
-│                                                          │
-│  [02] NEXT-GEN SAAS PRODUCTS                             │
-│                                                          │
-│  [03] AUTOMATION SYSTEMS                                 │
-│                                                          │
-│  [04] MODERN UI / UX EXPERIENCES                         │
-│                                                          │
-│  [05] OPEN SOURCE PROJECTS                               │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /></div>---
+
+🎯 Currently Working On
+
+🌐 Modern Web Applications
+🤖 AI & Automation
+🧰 Useful Web Tools
+🎨 Premium UI/UX
+🚀 SaaS Ideas
 
 ---
 
-"> 2026_OBJECTIVES"
+🧠 My Developer Philosophy
 
-01  █████████████████░░░  Build better products
-02  ███████████████░░░░░  Master modern web development
-03  █████████████░░░░░░░  Explore AI development
-04  ████████████░░░░░░░░  Launch SaaS products
-05  ██████████░░░░░░░░░░  Grow open-source presence
-06  █████████░░░░░░░░░░░  Build products people love
+«Build. Learn. Improve. Repeat.»
+
+Every project is a chance to learn something new, solve a problem and become a better developer.
 
 ---
 
-"> DEVELOPER_LOG"
+🚀 2026 Goals
 
-const developer = {
-    name: "Malik Mateen",
-
-    identity: "Web Developer",
-
-    interests: [
-        "Web Development",
-        "UI/UX",
-        "Artificial Intelligence",
-        "SaaS",
-        "Automation",
-        "Creative Technology"
-    ],
-
-    philosophy:
-        "Build useful things. Make them beautiful. Keep learning.",
-
-    status: "ONLINE"
-};
-
-console.log("System ready 🚀");
+- [ ] Build more real-world web applications
+- [ ] Explore AI-powered products
+- [ ] Build useful SaaS tools
+- [ ] Improve UI/UX skills
+- [ ] Contribute more to GitHub
+- [ ] Launch products that people actually use
 
 ---
 
-"> CONNECT"
+🌐 Let's Connect
 
-<div align="center">╔════════════════════════════════════════════════════╗
-║                                                    ║
-║        WANT TO BUILD SOMETHING GREAT?             ║
-║                                                    ║
-║                 LET'S CONNECT.                     ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-
-<a href="https://github.com/malikmateen39">
-<img src="https://img.shields.io/badge/GITHUB-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a><a href="https://malikmateen-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=vercel&logoColor=black"/>
+<div align="center"><a href="https://malikmateen-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" />
+</a><a href="https://github.com/malikmateen39">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a></div>---
 
-<div align="center">> END OF TRANSMISSION_
+<div align="center">⭐ Thanks for visiting my profile!
 
-SYSTEM STATUS : ONLINE
-BUILD STATUS  : ACTIVE
-MISSION       : BUILD THE FUTURE
+Let's build something amazing. 🚀
 
-█▀▄▀█ █▀█ █░░ █ █▄░█
-█░▀░█ █▄█ █▄▄ █ █░▀█
-
-"⚡ BUILD // BREAK // LEARN // REPEAT ⚡"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:00d9ff&height=130&section=footer"/></div>
+<img src="https://komarev.com/ghpvc/?username=malikmateen39&label=Profile%20Views&color=36BCF7&style=flat" /></div>
