@@ -1,4 +1,3 @@
-
 <div align="center">👋 Hi, I'm Malik Mateen
 
 💻 Web Developer • UI/UX Designer • Digital Builder
